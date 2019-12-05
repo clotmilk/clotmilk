@@ -1,0 +1,15 @@
+mat-form-field {
+  width: 100%;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+span {
+  margin-top: 1rem;
+}
+.note {
+  display: flex;
+  flex-direction: column;
+}
